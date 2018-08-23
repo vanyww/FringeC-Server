@@ -1,0 +1,54 @@
+C:\rov_control\ROSPortLogic\bin\Debug\amd64\libzmq.dll
+C:\rov_control\ROSPortLogic\bin\Debug\amd64\libsodium.dll
+C:\rov_control\ROSPortLogic\bin\Debug\i386\libzmq.dll
+C:\rov_control\ROSPortLogic\bin\Debug\i386\libsodium.dll
+C:\rov_control\ROSPortLogic\bin\Debug\amd64\libzmq.so
+C:\rov_control\ROSPortLogic\bin\Debug\i386\libzmq.so
+C:\rov_control\ROSPortLogic\bin\Debug\NLog.config
+C:\rov_control\ROSPortLogic\bin\Debug\ROSPortLogic.dll
+C:\rov_control\ROSPortLogic\bin\Debug\ROSPortLogic.pdb
+C:\rov_control\ROSPortLogic\bin\Debug\Logging.dll
+C:\rov_control\ROSPortLogic\bin\Debug\MessagingCoreZMQ.dll
+C:\rov_control\ROSPortLogic\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\rov_control\ROSPortLogic\bin\Debug\System.ValueTuple.dll
+C:\rov_control\ROSPortLogic\bin\Debug\TypeCreator.dll
+C:\rov_control\ROSPortLogic\bin\Debug\NLog.dll
+C:\rov_control\ROSPortLogic\bin\Debug\ZeroMQ.dll
+C:\rov_control\ROSPortLogic\bin\Debug\Logging.pdb
+C:\rov_control\ROSPortLogic\bin\Debug\MessagingCoreZMQ.pdb
+C:\rov_control\ROSPortLogic\bin\Debug\MessagingCoreZMQ.dll.config
+C:\rov_control\ROSPortLogic\bin\Debug\TypeCreator.pdb
+C:\rov_control\ROSPortLogic\bin\Debug\System.ValueTuple.xml
+C:\rov_control\ROSPortLogic\bin\Debug\NLog.xml
+C:\rov_control\ROSPortLogic\bin\Debug\ZeroMQ.xml
+C:\rov_control\ROSPortLogic\obj\Debug\ROSPortLogic.csprojResolveAssemblyReference.cache
+C:\rov_control\ROSPortLogic\obj\Debug\ROSPortLogic.dll
+C:\rov_control\ROSPortLogic\obj\Debug\ROSPortLogic.pdb
+D:\WS\Visual Studio\rov_control\ROSPortLogic\bin\Debug\amd64\libzmq.dll
+D:\WS\Visual Studio\rov_control\ROSPortLogic\bin\Debug\amd64\libsodium.dll
+D:\WS\Visual Studio\rov_control\ROSPortLogic\bin\Debug\i386\libzmq.dll
+D:\WS\Visual Studio\rov_control\ROSPortLogic\bin\Debug\i386\libsodium.dll
+D:\WS\Visual Studio\rov_control\ROSPortLogic\bin\Debug\amd64\libzmq.so
+D:\WS\Visual Studio\rov_control\ROSPortLogic\bin\Debug\i386\libzmq.so
+D:\WS\Visual Studio\rov_control\ROSPortLogic\bin\Debug\NLog.config
+D:\WS\Visual Studio\rov_control\ROSPortLogic\bin\Debug\ROSPortLogic.dll
+D:\WS\Visual Studio\rov_control\ROSPortLogic\bin\Debug\ROSPortLogic.pdb
+D:\WS\Visual Studio\rov_control\ROSPortLogic\bin\Debug\Logging.dll
+D:\WS\Visual Studio\rov_control\ROSPortLogic\bin\Debug\MessagingCoreZMQ.dll
+D:\WS\Visual Studio\rov_control\ROSPortLogic\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\WS\Visual Studio\rov_control\ROSPortLogic\bin\Debug\System.ValueTuple.dll
+D:\WS\Visual Studio\rov_control\ROSPortLogic\bin\Debug\TypeCreator.dll
+D:\WS\Visual Studio\rov_control\ROSPortLogic\bin\Debug\NLog.dll
+D:\WS\Visual Studio\rov_control\ROSPortLogic\bin\Debug\ZeroMQ.dll
+D:\WS\Visual Studio\rov_control\ROSPortLogic\bin\Debug\Logging.pdb
+D:\WS\Visual Studio\rov_control\ROSPortLogic\bin\Debug\MessagingCoreZMQ.pdb
+D:\WS\Visual Studio\rov_control\ROSPortLogic\bin\Debug\MessagingCoreZMQ.dll.config
+D:\WS\Visual Studio\rov_control\ROSPortLogic\bin\Debug\TypeCreator.pdb
+D:\WS\Visual Studio\rov_control\ROSPortLogic\bin\Debug\System.ValueTuple.xml
+D:\WS\Visual Studio\rov_control\ROSPortLogic\bin\Debug\NLog.xml
+D:\WS\Visual Studio\rov_control\ROSPortLogic\bin\Debug\ZeroMQ.xml
+D:\WS\Visual Studio\rov_control\ROSPortLogic\obj\Debug\ROSPortLogic.csprojResolveAssemblyReference.cache
+D:\WS\Visual Studio\rov_control\ROSPortLogic\obj\Debug\ROSPortLogic.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio\rov_control\ROSPortLogic\obj\Debug\ROSPortLogic.csproj.CopyComplete
+D:\WS\Visual Studio\rov_control\ROSPortLogic\obj\Debug\ROSPortLogic.dll
+D:\WS\Visual Studio\rov_control\ROSPortLogic\obj\Debug\ROSPortLogic.pdb

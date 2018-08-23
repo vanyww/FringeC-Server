@@ -1,0 +1,12 @@
+D:\WS\Visual Studio\rov_control\SystemSignalsPortLogic\bin\Debug\SystemSignalsLogic.dll
+D:\WS\Visual Studio\rov_control\SystemSignalsPortLogic\bin\Debug\SystemSignalsLogic.pdb
+D:\WS\Visual Studio\rov_control\SystemSignalsPortLogic\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\WS\Visual Studio\rov_control\SystemSignalsPortLogic\bin\Debug\System.ValueTuple.dll
+D:\WS\Visual Studio\rov_control\SystemSignalsPortLogic\bin\Debug\System.ValueTuple.xml
+D:\WS\Visual Studio\rov_control\SystemSignalsPortLogic\obj\Debug\NodeSignalsLogic.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio\rov_control\SystemSignalsPortLogic\obj\Debug\NodeSignalsLogic.csproj.CopyComplete
+D:\WS\Visual Studio\rov_control\SystemSignalsPortLogic\obj\Debug\SystemSignalsLogic.dll
+D:\WS\Visual Studio\rov_control\SystemSignalsPortLogic\obj\Debug\SystemSignalsLogic.pdb
+D:\WS\Visual Studio\rov_control\SystemSignalsPortLogic\obj\Debug\NodeSignalsLogic.csprojResolveAssemblyReference.cache
+D:\WS\Visual Studio\rov_control\SystemSignalsPortLogic\bin\Debug\Utils.dll
+D:\WS\Visual Studio\rov_control\SystemSignalsPortLogic\bin\Debug\Utils.pdb

@@ -1,0 +1,6 @@
+D:\WS\Visual Studio\rov_control\Utils\bin\Debug\Utils.dll
+D:\WS\Visual Studio\rov_control\Utils\bin\Debug\Utils.pdb
+D:\WS\Visual Studio\rov_control\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio\rov_control\Utils\obj\Debug\Utils.dll
+D:\WS\Visual Studio\rov_control\Utils\obj\Debug\Utils.pdb
+D:\WS\Visual Studio\rov_control\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache

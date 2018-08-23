@@ -1,0 +1,15 @@
+C:\Users\Vanyw\Documents\Visual Studio 2017\Projects\rov_control\ParallelHelper\bin\Debug\ParallelHelper.dll
+C:\Users\Vanyw\Documents\Visual Studio 2017\Projects\rov_control\ParallelHelper\bin\Debug\ParallelHelper.pdb
+C:\Users\Vanyw\Documents\Visual Studio 2017\Projects\rov_control\ParallelHelper\obj\Debug\ParallelHelper.dll
+C:\Users\Vanyw\Documents\Visual Studio 2017\Projects\rov_control\ParallelHelper\obj\Debug\ParallelHelper.pdb
+C:\Users\Vanyww\Desktop\rov_control\ParallelHelper\bin\Debug\ParallelHelper.dll
+C:\Users\Vanyww\Desktop\rov_control\ParallelHelper\bin\Debug\ParallelHelper.pdb
+C:\Users\Vanyww\Desktop\rov_control\ParallelHelper\obj\Debug\ParallelHelper.csprojResolveAssemblyReference.cache
+C:\Users\Vanyww\Desktop\rov_control\ParallelHelper\obj\Debug\ParallelHelper.dll
+C:\Users\Vanyww\Desktop\rov_control\ParallelHelper\obj\Debug\ParallelHelper.pdb
+D:\WS\Visual Studio\rov_control\ParallelHelper\bin\Debug\ParallelHelper.dll
+D:\WS\Visual Studio\rov_control\ParallelHelper\bin\Debug\ParallelHelper.pdb
+D:\WS\Visual Studio\rov_control\ParallelHelper\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\WS\Visual Studio\rov_control\ParallelHelper\obj\Debug\ParallelHelper.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio\rov_control\ParallelHelper\obj\Debug\ParallelHelper.dll
+D:\WS\Visual Studio\rov_control\ParallelHelper\obj\Debug\ParallelHelper.pdb

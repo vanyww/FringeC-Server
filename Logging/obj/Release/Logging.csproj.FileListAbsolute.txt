@@ -1,0 +1,9 @@
+D:\WS\Visual Studio\rov_control\Logging\bin\Release\NLog.config
+D:\WS\Visual Studio\rov_control\Logging\bin\Release\Logging.dll
+D:\WS\Visual Studio\rov_control\Logging\bin\Release\Logging.pdb
+D:\WS\Visual Studio\rov_control\Logging\bin\Release\NLog.dll
+D:\WS\Visual Studio\rov_control\Logging\bin\Release\System.Threading.Tasks.Dataflow.dll
+D:\WS\Visual Studio\rov_control\Logging\bin\Release\NLog.xml
+D:\WS\Visual Studio\rov_control\Logging\obj\Release\Logging.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio\rov_control\Logging\obj\Release\Logging.dll
+D:\WS\Visual Studio\rov_control\Logging\obj\Release\Logging.pdb

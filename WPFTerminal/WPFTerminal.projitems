@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>5ead2b15-d3ad-4be7-a75e-1c7f3eebf65e</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>WPFTerminal</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Page Include="$(MSBuildThisFileDirectory)Console.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)View\Icons\Icons.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Console.xaml.cs">
+      <DependentUpon>Console.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Model\ConsoleMessage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\ExpandableConsoleMessage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModel\Selectors\MessageTemplateSelector.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)View\Behaviors\AutoScrollDownBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)View\Icons\DynamicIcon.cs" />
+  </ItemGroup>
+</Project>

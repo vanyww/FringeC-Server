@@ -1,0 +1,11 @@
+C:\rov_control\TypeCreator\bin\Debug\TypeCreator.dll
+C:\rov_control\TypeCreator\bin\Debug\TypeCreator.pdb
+C:\rov_control\TypeCreator\obj\Debug\TypeCreator.dll
+C:\rov_control\TypeCreator\obj\Debug\TypeCreator.pdb
+C:\rov_control\TypeCreator\obj\Debug\TypeCreator.csprojResolveAssemblyReference.cache
+D:\WS\Visual Studio\rov_control\TypeCreator\bin\Debug\TypeCreator.dll
+D:\WS\Visual Studio\rov_control\TypeCreator\bin\Debug\TypeCreator.pdb
+D:\WS\Visual Studio\rov_control\TypeCreator\obj\Debug\TypeCreator.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio\rov_control\TypeCreator\obj\Debug\TypeCreator.dll
+D:\WS\Visual Studio\rov_control\TypeCreator\obj\Debug\TypeCreator.pdb
+D:\WS\Visual Studio\rov_control\TypeCreator\obj\Debug\TypeCreator.csprojResolveAssemblyReference.cache

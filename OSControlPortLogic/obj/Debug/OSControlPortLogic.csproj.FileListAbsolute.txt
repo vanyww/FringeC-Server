@@ -1,0 +1,11 @@
+C:\rov_control\OSControlPortLogic\bin\Debug\OSControlPortLogic.dll
+C:\rov_control\OSControlPortLogic\bin\Debug\OSControlPortLogic.pdb
+C:\rov_control\OSControlPortLogic\obj\Debug\OSControlPortLogic.dll
+C:\rov_control\OSControlPortLogic\obj\Debug\OSControlPortLogic.pdb
+D:\WS\Visual Studio\rov_control\OSControlPortLogic\bin\Debug\OSControlPortLogic.dll
+D:\WS\Visual Studio\rov_control\OSControlPortLogic\bin\Debug\OSControlPortLogic.pdb
+D:\WS\Visual Studio\rov_control\OSControlPortLogic\obj\Debug\OSControlPortLogic.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio\rov_control\OSControlPortLogic\obj\Debug\OSControlPortLogic.dll
+D:\WS\Visual Studio\rov_control\OSControlPortLogic\obj\Debug\OSControlPortLogic.pdb
+C:\rov_control\OSControlPortLogic\obj\Debug\OSControlPortLogic.csprojResolveAssemblyReference.cache
+D:\WS\Visual Studio\rov_control\OSControlPortLogic\obj\Debug\OSControlPortLogic.csprojResolveAssemblyReference.cache

@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6928B384-AE17-4252-B862-59D5EFB15DA3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MiddlewareLogic</RootNamespace>
+    <AssemblyName>MiddlewareLogic</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Threading.Tasks.Dataflow, Version=4.5.24.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net461\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Commands\CommandCodec.cs" />
+    <Compile Include="Commands\CommandReply.cs" />
+    <Compile Include="Commands\OuterCommand.cs" />
+    <Compile Include="Commands\OuterCommandCall.cs" />
+    <Compile Include="Commands\Wrappers\IMessageCreator.cs" />
+    <Compile Include="Commands\Wrappers\MessageCreator.cs" />
+    <Compile Include="Enums\CommandMessageSubtype.cs" />
+    <Compile Include="Enums\CommandUsage.cs" />
+    <Compile Include="Enums\MessageSubtype.cs" />
+    <Compile Include="Enums\DeviceType.cs" />
+    <Compile Include="Enums\MessengerType.cs" />
+    <Compile Include="Enums\ParamCommandType.cs" />
+    <Compile Include="Enums\ParamFlags.cs" />
+    <Compile Include="Events\CommandAddedEventArgs.cs" />
+    <Compile Include="Events\CommandCalledEventArgs.cs" />
+    <Compile Include="Events\MessengerAddedEventArgs.cs" />
+    <Compile Include="Events\RNodeAddedEventArgs.cs" />
+    <Compile Include="MessageTypeWrappers\ActionMessenger.cs" />
+    <Compile Include="MessageTypeWrappers\Base\IActionMessenger.cs" />
+    <Compile Include="MessageTypeWrappers\Base\IRawMessenger.cs" />
+    <Compile Include="MessageTypeWrappers\Base\IServiceMessenger.cs" />
+    <Compile Include="MessageTypeWrappers\Base\ITopicMessenger.cs" />
+    <Compile Include="MessageTypeWrappers\Base\Messenger.cs" />
+    <Compile Include="MessageTypeWrappers\Base\MessengerInfo.cs" />
+    <Compile Include="MessageTypeWrappers\Base\MockMessenger.cs" />
+    <Compile Include="MessageTypeWrappers\MessageProcessor.cs" />
+    <Compile Include="MessageTypeWrappers\MessageTypeWrapperCreator.cs" />
+    <Compile Include="MessageTypeWrappers\RawMessenger.cs" />
+    <Compile Include="MessageTypeWrappers\ServiceMessenger.cs" />
+    <Compile Include="MessageTypeWrappers\TopicMessenger.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Router\Base\MessageCodec.cs" />
+    <Compile Include="Router\Base\MessageMeta.cs" />
+    <Compile Include="Router\Base\RNode.cs" />
+    <Compile Include="Router\RouteWorker.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Logging\Logging.csproj">
+      <Project>{7D78BC50-3DB1-418B-B1A5-D7E89B66B77F}</Project>
+      <Name>Logging</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MessagingCoreZMQ\MessagingCore.csproj">
+      <Project>{4216a5c9-a9b4-4ec6-9e06-7b5ff9acc1d9}</Project>
+      <Name>MessagingCore</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SystemSignalsPortLogic\NodeSignalsLogic.csproj">
+      <Project>{7A23451F-F69C-47A0-A886-7812A2D387F8}</Project>
+      <Name>NodeSignalsLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TypeCreator\TypeCreator.csproj">
+      <Project>{ffafd0db-5b09-4bce-b5fb-ee3a048bef6d}</Project>
+      <Name>TypeCreator</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utils\Utils.csproj">
+      <Project>{bcd9e004-db56-4ca0-84ea-493a0044afeb}</Project>
+      <Name>Utils</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

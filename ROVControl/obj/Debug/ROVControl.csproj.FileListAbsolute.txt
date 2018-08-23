@@ -1,0 +1,15 @@
+D:\WS\Visual Studio\rov_control\ROVControl\bin\Debug\ROVControl.exe.config
+D:\WS\Visual Studio\rov_control\ROVControl\bin\Debug\ROVControl.exe
+D:\WS\Visual Studio\rov_control\ROVControl\bin\Debug\ROVControl.pdb
+D:\WS\Visual Studio\rov_control\ROVControl\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio\rov_control\ROVControl\obj\Debug\App.g.cs
+D:\WS\Visual Studio\rov_control\ROVControl\obj\Debug\ROVControl_MarkupCompile.cache
+D:\WS\Visual Studio\rov_control\ROVControl\obj\Debug\ROVControl_MarkupCompile.lref
+D:\WS\Visual Studio\rov_control\ROVControl\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio\rov_control\ROVControl\obj\Debug\ROVControl.g.resources
+D:\WS\Visual Studio\rov_control\ROVControl\obj\Debug\ROVControl.Properties.Resources.resources
+D:\WS\Visual Studio\rov_control\ROVControl\obj\Debug\ROVControl.csproj.GenerateResource.Cache
+D:\WS\Visual Studio\rov_control\ROVControl\obj\Debug\ROVControl.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio\rov_control\ROVControl\obj\Debug\ROVControl.exe
+D:\WS\Visual Studio\rov_control\ROVControl\obj\Debug\ROVControl.pdb
+D:\WS\Visual Studio\rov_control\ROVControl\obj\Debug\ROVControl.csprojResolveAssemblyReference.cache

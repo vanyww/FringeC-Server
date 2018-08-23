@@ -1,0 +1,10 @@
+D:\WS\Visual Studio\rov_control\TestApp\bin\Debug\TestApp.exe.config
+D:\WS\Visual Studio\rov_control\TestApp\bin\Debug\TestApp.exe
+D:\WS\Visual Studio\rov_control\TestApp\bin\Debug\TestApp.pdb
+D:\WS\Visual Studio\rov_control\TestApp\bin\Debug\System.ValueTuple.dll
+D:\WS\Visual Studio\rov_control\TestApp\bin\Debug\TypeCreator.dll
+D:\WS\Visual Studio\rov_control\TestApp\bin\Debug\TypeCreator.pdb
+D:\WS\Visual Studio\rov_control\TestApp\bin\Debug\System.ValueTuple.xml
+D:\WS\Visual Studio\rov_control\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio\rov_control\TestApp\obj\Debug\TestApp.exe
+D:\WS\Visual Studio\rov_control\TestApp\obj\Debug\TestApp.pdb

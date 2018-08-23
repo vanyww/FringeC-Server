@@ -1,0 +1,20 @@
+C:\rov_control\Logging\bin\Debug\NLog.config
+C:\rov_control\Logging\bin\Debug\Logging.dll
+C:\rov_control\Logging\bin\Debug\Logging.pdb
+C:\rov_control\Logging\bin\Debug\NLog.dll
+C:\rov_control\Logging\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\rov_control\Logging\bin\Debug\NLog.xml
+C:\rov_control\Logging\obj\Debug\Logging.dll
+C:\rov_control\Logging\obj\Debug\Logging.pdb
+C:\rov_control\Logging\obj\Debug\Logging.csprojResolveAssemblyReference.cache
+D:\WS\Visual Studio\rov_control\Logging\bin\Debug\NLog.config
+D:\WS\Visual Studio\rov_control\Logging\bin\Debug\Logging.dll
+D:\WS\Visual Studio\rov_control\Logging\bin\Debug\Logging.pdb
+D:\WS\Visual Studio\rov_control\Logging\bin\Debug\NLog.dll
+D:\WS\Visual Studio\rov_control\Logging\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\WS\Visual Studio\rov_control\Logging\bin\Debug\NLog.xml
+D:\WS\Visual Studio\rov_control\Logging\obj\Debug\Logging.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio\rov_control\Logging\obj\Debug\Logging.csproj.CopyComplete
+D:\WS\Visual Studio\rov_control\Logging\obj\Debug\Logging.dll
+D:\WS\Visual Studio\rov_control\Logging\obj\Debug\Logging.pdb
+D:\WS\Visual Studio\rov_control\Logging\obj\Debug\Logging.csprojResolveAssemblyReference.cache

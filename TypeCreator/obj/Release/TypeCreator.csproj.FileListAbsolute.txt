@@ -1,0 +1,5 @@
+D:\WS\Visual Studio\rov_control\TypeCreator\bin\Release\TypeCreator.dll
+D:\WS\Visual Studio\rov_control\TypeCreator\bin\Release\TypeCreator.pdb
+D:\WS\Visual Studio\rov_control\TypeCreator\obj\Release\TypeCreator.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio\rov_control\TypeCreator\obj\Release\TypeCreator.dll
+D:\WS\Visual Studio\rov_control\TypeCreator\obj\Release\TypeCreator.pdb
